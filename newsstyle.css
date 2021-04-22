@@ -11,6 +11,9 @@ span{
     font-size:90px;
     
 }
+.upr{
+border-bottom:2px solid black;
+}
 .nw1{
     font-weight: bold;
     text-align: center;
